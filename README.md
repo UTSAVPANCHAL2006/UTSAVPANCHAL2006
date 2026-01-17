@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utsav Panchal</h1>
-<h3 align="center">🚀 Aspiring AI & Machine Learning Engineer | Data Science Enthusiast</h3>
+<h3 align="center">🚀 Aspiring AI & Machine Learning Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UTSAVPANCHAL2006&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,7 +11,6 @@
 
 - 🎯 Focused on **Artificial Intelligence & Machine Learning**
 - 💻 Building **real-world ML projects**
-- 📊 Interested in **Data Science, Predictive Analytics & AI Applications**
 - 🌱 Currently learning **Advanced Machine Learning & Model Deployment**
 - 🏆 Goal: Become a **Professional AI/ML Engineer**
 
@@ -71,9 +70,3 @@
 
 - 🐙 GitHub: https://github.com/UTSAVPANCHAL2006
 
----
-
-<p align="center">
-  ⭐ If you like my projects, consider starring them!  
-  🚀 Let's build something amazing with AI!
-</p>
