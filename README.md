@@ -51,18 +51,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UTSAVPANCHAL2006&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UTSAVPANCHAL2006&theme=tokyonight" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/UTSAVPANCHAL2006?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/UTSAVPANCHAL2006?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=UTSAVPANCHAL2006&style=for-the-badge)
+
 
 ---
 
 ## 🏆 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTSAVPANCHAL2006&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://img.shields.io/badge/Python-Machine%20Learning-blue?style=for-the-badge)
+![ML](https://img.shields.io/badge/AI-Projects-green?style=for-the-badge)
 
 ---
 
