@@ -1,58 +1,79 @@
-# 👋 Hi, I'm Utsav Panchal
+<h1 align="center">Hi 👋, I'm Utsav Panchal</h1>
+<h3 align="center">🚀 Aspiring AI & Machine Learning Engineer | Data Science Enthusiast</h3>
 
-🎯 Aspiring AI & Machine Learning Engineer  
-💻 Passionate about building real-world ML projects  
-📊 Interested in Data Science, Predictive Models & AI Applications
-
----
-
-## 🚀 About Me
-
-- 🔭 I am currently learning and building projects in **Machine Learning & AI**
-- 🧠 I enjoy working on **prediction systems, classification models, and data analysis**
-- 🛠️ I build projects using **Python, Jupyter Notebook, Scikit-learn, Pandas, NumPy**
-- 📈 My goal is to become a **professional ML / AI engineer**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UTSAVPANCHAL2006&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 About Me
 
-- **Languages:** Python  
-- **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn  
-- **Tools:** Jupyter Notebook, Git, GitHub  
-- **Domain:** Machine Learning, Data Science, Predictive Modeling
+- 🎯 Focused on **Artificial Intelligence & Machine Learning**
+- 💻 Building **real-world ML projects**
+- 📊 Interested in **Data Science, Predictive Analytics & AI Applications**
+- 🌱 Currently learning **Advanced Machine Learning & Model Deployment**
+- 🏆 Goal: Become a **Professional AI/ML Engineer**
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
+
+**Languages:**  
+- 🐍 Python  
+
+**Libraries & Tools:**  
+- NumPy, Pandas, Matplotlib, Scikit-learn  
+- Jupyter Notebook, Git, GitHub  
+
+**Domains:**  
+- Machine Learning  
+- Data Science  
+- Predictive Modeling  
+- AI Applications  
+
+---
+
+## 🚀 Featured Projects
 
 ### ❤️ Heart Disease Prediction
-- Machine learning model to predict heart disease using medical data  
-- Algorithms: Logistic Regression / ML Classifiers  
-- Tech: Python, Pandas, Scikit-learn
+> ML system to predict heart disease using medical data.
 
 ### 📉 Customer Churn Prediction
-- Predicts whether a customer will leave a company  
-- Business-focused ML classification project
+> Business-focused ML model to predict customer retention.
 
 ### 🧠 Sentiment Analysis
-- NLP-based project to analyze text sentiment  
-- Uses machine learning for text classification
+> NLP-based project for text sentiment classification.
+
+### 💰 Salary Prediction
+> Regression model to predict salary based on experience.
 
 ---
 
-## 📊 What I'm Currently Working On
+## 📊 GitHub Stats
 
-- Improving my ML fundamentals  
-- Building better end-to-end ML projects  
-- Learning model evaluation, feature engineering, and deployment
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UTSAVPANCHAL2006&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UTSAVPANCHAL2006&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTSAVPANCHAL2006&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/UTSAVPANCHAL2006
+- 🐙 GitHub: https://github.com/UTSAVPANCHAL2006
 
 ---
 
-⭐ If you like my projects, consider starring them!
+<p align="center">
+  ⭐ If you like my projects, consider starring them!  
+  🚀 Let's build something amazing with AI!
+</p>
